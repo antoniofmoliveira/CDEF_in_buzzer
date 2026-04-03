@@ -11,9 +11,9 @@ Plays "do re mi fa" in buzzer connected to an arduino uno smd and Golang.
 ## TinyGo Toolkit
 
 * Connect board (arduino uno smd)
-* View > Command Palette > TinyGo: Initilize TinyGo Project
+* View > Command Palette > TinyGo: Initialize TinyGo Project
 * View > Command Palette > TinyGo: Configure Intellisense
-* Project > Target (arduino)
+* Project > Target (arduino uno)
 * Project > Port (/dev/ttyUSB0)
 * Project > Flash
 
